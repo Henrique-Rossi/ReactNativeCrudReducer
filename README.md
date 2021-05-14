@@ -1,5 +1,5 @@
 # Aplicação de Cadastro de Usuário (CRUD)
-###Tecnologias utilizadas 
+### Tecnologias utilizadas 
 - React Native
 - Context API 
 - Hooks useReducer
